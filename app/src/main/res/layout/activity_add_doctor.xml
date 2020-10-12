@@ -32,7 +32,10 @@
             android:inputType="textEmailAddress"
             android:drawableLeft="@drawable/person"
             android:drawableTint="@color/blue"
-            android:drawablePadding="10dp"
+            android:drawablePaddingLeft="10dp"
+            android:drawablePaddingRight="10dp"
+            android:drawablePaddingTop="10dp"
+            android:drawablePaddingBottom="10dp"                   
             />
 
     </com.google.android.material.textfield.TextInputLayout>
